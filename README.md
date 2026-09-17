@@ -1,4 +1,11 @@
 # Born-Baby-Ai
+# Empty Brain 
+
+**For Deepseek v4.1 flash like Architecture**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boss-defender/Born-Baby-Ai/blob/main/Just_born_Baby_Ai.ipynb)
+
+**For GGUF for LM Studio/Ollama**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boss-defender/Born-Baby-Ai/blob/main/Just_Born_Baby_Ai_for_gguf.ipynb)
 
 
 # **⚠️ Caution:**
