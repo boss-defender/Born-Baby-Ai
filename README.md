@@ -21,7 +21,7 @@
 
 **⛔ 4. You may need to delete all previous conversation in LM studio to chat with New Born Ai Model.**
 
-**✏️ 5. To Train it on Huge amount of Data , You need to make it**
+**✏️ 5. It is not ready yet to Train with trillions of data**
 
 
 Demo : 
