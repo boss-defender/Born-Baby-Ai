@@ -15,11 +15,13 @@
 
 **🚩 3. Make sure to give correct max-samples integer or leave it empty.** 
 
+**⛔ 4. You may need to delete all previous conversation in LM studio to chat with New Born Ai Model.**
+**✏️ 5. To Train it on Huge amount of Data , You need to make it**
+
 
 Demo : 
 
-<img width="1030" height="693" alt="image" src="https://github.com/user-attachments/assets/fe237741-30c5-42da-9f00-7b9c1941e27e" />
-
+<img width="1300" height="787" alt="image" src="https://github.com/user-attachments/assets/9eeaf82f-d168-4e48-b3b6-33c7862901dc" />
 
 <img width="616" height="535" alt="image" src="https://github.com/user-attachments/assets/e97c242b-d751-4ecb-82bd-d0b2427bf0bf" />
 
