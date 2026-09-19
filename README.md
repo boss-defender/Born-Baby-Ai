@@ -4,13 +4,17 @@
 
 ---
 
-**For Deepseek v4.1 flash like Architecture**
+**For Deepseek v4.1 flash inspired Architecture**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boss-defender/Born-Baby-Ai/blob/main/New_Born_Baby_Ai.ipynb)
 
-**For GGUF for LM Studio/Ollama**
+**Qwen2 inspired Architecture For GGUF for LM Studio/Ollama**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boss-defender/Born-Baby-Ai/blob/main/Just_Born_Baby_Ai_for_gguf.ipynb) 
 
 ---
+
+**The Qwen2 notebook currently goes up to approximately 114 million parameters.**
+
+**The DeepSeek-inspired notebook currently goes up to approximately 482 million parameters.**
 
 # **⚠️ Caution:**
 **📢 1. With colab free tier , you can train with smaller datasets or lower max samples.**
